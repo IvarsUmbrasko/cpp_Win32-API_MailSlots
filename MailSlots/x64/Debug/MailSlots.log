@@ -1,0 +1,4 @@
+﻿  MailSlots.cpp
+E:\CppProjects\MailSlots\MailSlots.cpp(95,42): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+E:\CppProjects\MailSlots\MailSlots.cpp(103,42): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  MailSlots.vcxproj -> E:\CppProjects\MailSlots\x64\Debug\MailSlots.exe
